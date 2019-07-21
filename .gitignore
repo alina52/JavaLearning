@@ -34,3 +34,4 @@ crashlytics-build.properties
 fabric.properties
 
 src/main/java/SpringBootHibernate/.mvn
+src/main/java/springboot-webflux-mongodb/.settings
